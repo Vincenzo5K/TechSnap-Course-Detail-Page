@@ -154,4 +154,3 @@ for(i = 0; i < course_cards.length; i++)
 
   progress_bar.style.width = count + "%";
 }
-
